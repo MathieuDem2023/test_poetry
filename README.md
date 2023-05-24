@@ -5,3 +5,4 @@ We namely use:
 
 1. **poetry** to manage the dependencies and packages.
 2. **sphinx** to handle the documentation.
+3. **git** to enable version controlling.
